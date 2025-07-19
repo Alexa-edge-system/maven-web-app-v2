@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.50.242.171:8081/repository/maven-releases/</url>
+	      <name>Alexa edge systems Releases Nexus Repository</name>
+	      <url>http://54.152.167.139:8081/repository/Bankapp-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.50.242.171:8081/repository/maven-snapshots/</url>
+	      <name>Alexa edge systems Snapshot Nexus Repository </name>
+	      <url>http://54.152.167.139:8081/repository/bankapp-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
